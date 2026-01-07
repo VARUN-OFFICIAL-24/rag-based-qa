@@ -3,3 +3,5 @@ faiss-cpu
 chromadb
 tiktoken
 jupyter
+langchain_community
+langchain_chroma
